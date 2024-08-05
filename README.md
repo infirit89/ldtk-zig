@@ -1,2 +1,2 @@
 # ldtk-zig
-a very very very very basic and probable not 100% working importer for ldtk
+A very very very very basic and probably not 100% working importer for [LDtk](https://ldtk.io/) written in zig.
